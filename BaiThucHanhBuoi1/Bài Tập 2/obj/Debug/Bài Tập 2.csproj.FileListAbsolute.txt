@@ -1,0 +1,9 @@
+C:\Users\PC301\source\repos\BaiThucHanhBuoi1\Bài Tập 2\bin\Debug\Bài Tập 2.exe.config
+C:\Users\PC301\source\repos\BaiThucHanhBuoi1\Bài Tập 2\bin\Debug\Bài Tập 2.exe
+C:\Users\PC301\source\repos\BaiThucHanhBuoi1\Bài Tập 2\bin\Debug\Bài Tập 2.pdb
+C:\Users\PC301\source\repos\BaiThucHanhBuoi1\Bài Tập 2\obj\Debug\Bài_Tập_2.Form1.resources
+C:\Users\PC301\source\repos\BaiThucHanhBuoi1\Bài Tập 2\obj\Debug\Bài_Tập_2.Properties.Resources.resources
+C:\Users\PC301\source\repos\BaiThucHanhBuoi1\Bài Tập 2\obj\Debug\Bài Tập 2.csproj.GenerateResource.cache
+C:\Users\PC301\source\repos\BaiThucHanhBuoi1\Bài Tập 2\obj\Debug\Bài Tập 2.csproj.CoreCompileInputs.cache
+C:\Users\PC301\source\repos\BaiThucHanhBuoi1\Bài Tập 2\obj\Debug\Bài Tập 2.exe
+C:\Users\PC301\source\repos\BaiThucHanhBuoi1\Bài Tập 2\obj\Debug\Bài Tập 2.pdb
