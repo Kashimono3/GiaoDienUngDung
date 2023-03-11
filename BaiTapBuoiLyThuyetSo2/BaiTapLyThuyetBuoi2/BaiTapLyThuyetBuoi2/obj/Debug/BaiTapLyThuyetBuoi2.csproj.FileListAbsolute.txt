@@ -1,0 +1,14 @@
+E:\Học\GDMT\GiaoDienUngDung-main\GiaoDienUngDung-main\BaiTapBuoiLyThuyetSo2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\bin\Debug\BaiTapLyThuyetBuoi2.exe.config
+E:\Học\GDMT\GiaoDienUngDung-main\GiaoDienUngDung-main\BaiTapBuoiLyThuyetSo2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\bin\Debug\BaiTapLyThuyetBuoi2.exe
+E:\Học\GDMT\GiaoDienUngDung-main\GiaoDienUngDung-main\BaiTapBuoiLyThuyetSo2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\bin\Debug\BaiTapLyThuyetBuoi2.pdb
+E:\Học\GDMT\GiaoDienUngDung-main\GiaoDienUngDung-main\BaiTapBuoiLyThuyetSo2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\obj\Debug\BaiTapLyThuyetBuoi2.csproj.AssemblyReference.cache
+E:\Học\GDMT\GiaoDienUngDung-main\GiaoDienUngDung-main\BaiTapBuoiLyThuyetSo2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\obj\Debug\BaiTapLyThuyetBuoi2.csproj.SuggestedBindingRedirects.cache
+E:\Học\GDMT\GiaoDienUngDung-main\GiaoDienUngDung-main\BaiTapBuoiLyThuyetSo2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\obj\Debug\BaiTapLyThuyetBuoi2.Form42.resources
+E:\Học\GDMT\GiaoDienUngDung-main\GiaoDienUngDung-main\BaiTapBuoiLyThuyetSo2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\obj\Debug\BaiTapLyThuyetBuoi2.Form48.resources
+E:\Học\GDMT\GiaoDienUngDung-main\GiaoDienUngDung-main\BaiTapBuoiLyThuyetSo2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\obj\Debug\BaiTapLyThuyetBuoi2.Form1.resources
+E:\Học\GDMT\GiaoDienUngDung-main\GiaoDienUngDung-main\BaiTapBuoiLyThuyetSo2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\obj\Debug\BaiTapLyThuyetBuoi2.Frm35.resources
+E:\Học\GDMT\GiaoDienUngDung-main\GiaoDienUngDung-main\BaiTapBuoiLyThuyetSo2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\obj\Debug\BaiTapLyThuyetBuoi2.Properties.Resources.resources
+E:\Học\GDMT\GiaoDienUngDung-main\GiaoDienUngDung-main\BaiTapBuoiLyThuyetSo2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\obj\Debug\BaiTapLyThuyetBuoi2.csproj.GenerateResource.cache
+E:\Học\GDMT\GiaoDienUngDung-main\GiaoDienUngDung-main\BaiTapBuoiLyThuyetSo2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\obj\Debug\BaiTapLyThuyetBuoi2.csproj.CoreCompileInputs.cache
+E:\Học\GDMT\GiaoDienUngDung-main\GiaoDienUngDung-main\BaiTapBuoiLyThuyetSo2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\obj\Debug\BaiTapLyThuyetBuoi2.exe
+E:\Học\GDMT\GiaoDienUngDung-main\GiaoDienUngDung-main\BaiTapBuoiLyThuyetSo2\BaiTapLyThuyetBuoi2\BaiTapLyThuyetBuoi2\obj\Debug\BaiTapLyThuyetBuoi2.pdb
