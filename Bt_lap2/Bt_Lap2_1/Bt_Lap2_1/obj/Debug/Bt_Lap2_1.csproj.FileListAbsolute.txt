@@ -1,0 +1,10 @@
+C:\Users\CICT\Desktop\Bt_lap2\Lab2_Demo\Bt_Lap2_1\Bt_Lap2_1\bin\Debug\Bt_Lap2_1.exe.config
+C:\Users\CICT\Desktop\Bt_lap2\Lab2_Demo\Bt_Lap2_1\Bt_Lap2_1\bin\Debug\Bt_Lap2_1.exe
+C:\Users\CICT\Desktop\Bt_lap2\Lab2_Demo\Bt_Lap2_1\Bt_Lap2_1\bin\Debug\Bt_Lap2_1.pdb
+C:\Users\CICT\Desktop\Bt_lap2\Lab2_Demo\Bt_Lap2_1\Bt_Lap2_1\obj\Debug\Bt_Lap2_1.csprojAssemblyReference.cache
+C:\Users\CICT\Desktop\Bt_lap2\Lab2_Demo\Bt_Lap2_1\Bt_Lap2_1\obj\Debug\Bt_Lap2_1.Form1.resources
+C:\Users\CICT\Desktop\Bt_lap2\Lab2_Demo\Bt_Lap2_1\Bt_Lap2_1\obj\Debug\Bt_Lap2_1.Properties.Resources.resources
+C:\Users\CICT\Desktop\Bt_lap2\Lab2_Demo\Bt_Lap2_1\Bt_Lap2_1\obj\Debug\Bt_Lap2_1.csproj.GenerateResource.cache
+C:\Users\CICT\Desktop\Bt_lap2\Lab2_Demo\Bt_Lap2_1\Bt_Lap2_1\obj\Debug\Bt_Lap2_1.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Desktop\Bt_lap2\Lab2_Demo\Bt_Lap2_1\Bt_Lap2_1\obj\Debug\Bt_Lap2_1.exe
+C:\Users\CICT\Desktop\Bt_lap2\Lab2_Demo\Bt_Lap2_1\Bt_Lap2_1\obj\Debug\Bt_Lap2_1.pdb
