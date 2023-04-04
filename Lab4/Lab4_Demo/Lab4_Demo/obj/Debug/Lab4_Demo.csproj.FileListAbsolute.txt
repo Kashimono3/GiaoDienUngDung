@@ -1,0 +1,11 @@
+Z:\Lab4\Lab4_Demo\Lab4_Demo\bin\Debug\Lab4_Demo.exe.config
+Z:\Lab4\Lab4_Demo\Lab4_Demo\bin\Debug\Lab4_Demo.exe
+Z:\Lab4\Lab4_Demo\Lab4_Demo\bin\Debug\Lab4_Demo.pdb
+Z:\Lab4\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.csprojAssemblyReference.cache
+Z:\Lab4\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.Properties.Resources.resources
+Z:\Lab4\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.csproj.GenerateResource.cache
+Z:\Lab4\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.csproj.CoreCompileInputs.cache
+Z:\Lab4\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.exe
+Z:\Lab4\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.pdb
+Z:\Lab4\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.frmSinhVien.resources
+Z:\Lab4\Lab4_Demo\Lab4_Demo\bin\Debug\DanhSachSV.txt
