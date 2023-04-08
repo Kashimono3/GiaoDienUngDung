@@ -10,28 +10,26 @@ namespace Lab4_Demo
 {
     class QuanLySinhVien
     {
-        public ArrayList DSSV= new ArrayList() ;
+        public List<SinhVien> DanhSach;
+
         public QuanLySinhVien()
         {
-            DSSV = new ArrayList();
+            DanhSach = new List<SinhVien>();
         }
-        public void Them(SinhVien sv)
-        {
-            this.DSSV.Add(sv);
-        }
+
         public SinhVien this[int index]
         {
-            get { return (SinhVien)DSSV[index]; }
-            set { DSSV[index] = value; }
+            get { return this.DanhSach[index]; }
+            set { this.DanhSach[index] = value; }
         }
+
         public void DocTuFile()
         {
-            string filename = "DanhSachSV.txt", t;
+            string filename = "DanhSachSV.txt";
             string[] s;
+            string t;
             SinhVien sv;
-            StreamReader sr = new StreamReader(
-            new FileStream(filename,
-           FileMode.Open));
+            StreamReader sr = new StreamReader(filename);
             while ((t = sr.ReadLine()) != null)
             {
                 s = t.Split(',');
@@ -47,10 +45,8 @@ namespace Lab4_Demo
                 sv.Email = s[6];
                 sv.DiaChi = s[7];
                 sv.Hinh = s[8];
-               
-                              
+                this.DanhSach.Add(sv);
 
-                this.Them(sv);
             }
         }
     }

@@ -7,12 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace Lab4_Demo
 {
     public partial class frmSinhVien : Form
     {
-        QuanLySinhVien DSSV;
+        QuanLySinhVien QLSV;
         public frmSinhVien()
         {
             
@@ -123,7 +124,7 @@ namespace Lab4_Demo
         private void LoadListView()
         {
             this.lvSinhVien.Items.Clear();
-            foreach (SinhVien sv in DSSV.DSSV)
+            foreach (SinhVien sv in QLSV.DanhSach)
             {
                 ThemSV(sv);
             }
@@ -131,8 +132,8 @@ namespace Lab4_Demo
 
         private void frmSinhVien_Load(object sender, EventArgs e)
         {
-            DSSV = new QuanLySinhVien();
-            DSSV.DocTuFile();
+            QLSV = new QuanLySinhVien();
+            QLSV.DocTuFile();
             LoadListView();
         }
 
@@ -160,6 +161,73 @@ namespace Lab4_Demo
             }
         }
 
-       
+        private void btnluu_Click(object sender, EventArgs e)
+        {
+            
+            SinhVien sv = GetSinhVien();
+            int check = -1;
+            for (int i = 0; i < QLSV.DanhSach.Count; i++)
+            {
+                if (sv.MaSo.CompareTo(QLSV.DanhSach[i].MaSo) == 0)
+                {
+                    check = i;
+                    break;
+                }
+            }
+            for (int j = 0; j < QLSV.DanhSach.Count; j++)
+            {
+                if (check != -1)
+                {
+                    QLSV.DanhSach[check].HoTen = sv.HoTen;
+                    QLSV.DanhSach[check].Phai = sv.Phai;
+                    QLSV.DanhSach[check].NgaySinh = sv.NgaySinh;
+                    QLSV.DanhSach[check].Lop = sv.Lop;
+                    QLSV.DanhSach[check].SoDienThoai = sv.SoDienThoai;
+                    QLSV.DanhSach[check].Email = sv.Email;
+                    QLSV.DanhSach[check].DiaChi = sv.DiaChi;
+                    QLSV.DanhSach[check].Hinh = sv.Hinh;
+                    break;
+
+                 
+                }
+                else if (sv.MaSo.CompareTo("") == 0)
+                {
+                    MessageBox.Show("Mã số sinh viên không được để trống", "Thông báo",
+                        MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+                else
+                    QLSV.DanhSach.Add(sv);
+                break;
+            }
+            LoadListView();
+
+        }
+
+    
+
+        private void tảiLạiDanhSáchToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            LoadListView();
+        }
+
+        private void xóaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ListViewItem lvitem;
+            for (int i = 0; i < lvSinhVien.Items.Count; i++)
+            {
+                if (lvSinhVien.Items[i].Checked)
+                {
+                    lvitem = lvSinhVien.Items[i];
+                    for (int j = 0; j < QLSV.DanhSach.Count; j++)
+                    {
+                        if (QLSV.DanhSach[j].MaSo.CompareTo(lvitem.SubItems[0].Text) == 0)
+                        {
+                            QLSV.DanhSach.RemoveAt(j);
+                        }
+                    }
+                }
+            }
+            LoadListView();
+        }
     }
 }
