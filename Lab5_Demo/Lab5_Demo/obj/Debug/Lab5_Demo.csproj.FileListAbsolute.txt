@@ -1,0 +1,15 @@
+Z:\Lab5_Demo\Lab5_Demo\bin\Debug\Lab5_Demo.exe.config
+Z:\Lab5_Demo\Lab5_Demo\bin\Debug\Lab5_Demo.exe
+Z:\Lab5_Demo\Lab5_Demo\bin\Debug\Lab5_Demo.pdb
+Z:\Lab5_Demo\Lab5_Demo\obj\Debug\Lab5_Demo.csprojAssemblyReference.cache
+Z:\Lab5_Demo\Lab5_Demo\obj\Debug\Lab5_Demo.Properties.Resources.resources
+Z:\Lab5_Demo\Lab5_Demo\obj\Debug\Lab5_Demo.csproj.GenerateResource.cache
+Z:\Lab5_Demo\Lab5_Demo\obj\Debug\Lab5_Demo.csproj.CoreCompileInputs.cache
+Z:\Lab5_Demo\Lab5_Demo\obj\Debug\Lab5_Demo.exe
+Z:\Lab5_Demo\Lab5_Demo\obj\Debug\Lab5_Demo.pdb
+Z:\Lab5_Demo\Lab5_Demo\bin\Debug\Newtonsoft.Json.dll
+Z:\Lab5_Demo\Lab5_Demo\bin\Debug\Newtonsoft.Json.xml
+Z:\Lab5_Demo\Lab5_Demo\obj\Debug\Lab5_Demo.Form1.resources
+Z:\Lab5_Demo\Lab5_Demo\obj\Debug\Lab5_Demo.csproj.CopyComplete
+Z:\Lab5_Demo\Lab5_Demo\bin\Debug\DanhSach.txt
+Z:\Lab5_Demo\Lab5_Demo\obj\Debug\Lab5_Demo.frmtuychon.resources
